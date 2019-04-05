@@ -1,3 +1,11 @@
-<?php
+<html>
+<head>
+</head>
+<body>
 
-phpinfo();
+<div>
+    Hello World! :P
+</div>
+
+</body>
+</html>
